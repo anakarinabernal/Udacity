@@ -1,0 +1,29 @@
+/* add your CSS here */
+	#interesting_facts{
+  		font-style: italic;
+	}
+	#general-border{
+		border: 2px solid gray;
+		width: 300px;
+		padding: 1em;
+	}
+	#second-border{
+		border: 2px solid gray;
+		padding: .2em;
+	}
+	h3{
+		text-align: center;
+	}
+	img{
+		width: 300px;
+	}
+	span{
+		font-weight: bold;
+	}
+	ul{
+		list-style-type: none;
+		padding: 0px;
+	}
+	div{
+		text-align: justify;
+	}
